@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="server_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.16.0.15</Value>
+    </Setting>
+    <Setting Name="sysName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="db_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.58.2.52</Value>
+    </Setting>
+    <Setting Name="db_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">modeling</Value>
+    </Setting>
+    <Setting Name="db_user_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">postgres</Value>
+    </Setting>
+    <Setting Name="db_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
